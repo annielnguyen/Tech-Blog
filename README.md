@@ -14,21 +14,17 @@ MVC
 MySQL
 Express Session
 
-Clone the repo, navigate to the root folder, run the following commands from the CLI:
+Clone the repo, navigate to the root folder, run the following command in your termina;:
 
-Run Test;
-npm run test
-
-Seed DB;
-npm run seed
-
-Start Server;
-npm start server
+node server.js
 
 ## Usage 
 
 Repo link: https://github.com/annielnguyen/Tech-Blog
-
+Heroku link: 
+![LoginPage](assets/login.png)
+![CreatePage](assets/create.png)
+![Notes](assets/notes.png)
 
 ## Questions
 
