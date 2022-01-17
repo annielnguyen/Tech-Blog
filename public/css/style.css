@@ -1,0 +1,25 @@
+header,
+.post:not(:last-child) {
+    border-bottom: 1px solid rgb(146, 146, 150);
+}
+
+.no-button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    color: #28bc1b;
+    text-decoration: none;
+    font-size: 100%;
+}
+
+.no-button:hover {
+    color: #bc1bbc;
+    text-decoration: underline;
+}
+
+.dollar-amount {
+    color: #09f509;
+    font-weight: bold;
+    margin-left: -5px;
+}
