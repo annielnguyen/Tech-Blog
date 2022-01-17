@@ -21,7 +21,7 @@ node server.js
 ## Usage 
 
 Repo link: https://github.com/annielnguyen/Tech-Blog
-Heroku link: 
+Heroku link: https://calm-headland-83614.herokuapp.com/
 ![LoginPage](assets/login.png)
 ![CreatePage](assets/create.png)
 ![Notes](assets/notes.png)
