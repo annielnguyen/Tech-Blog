@@ -14,7 +14,7 @@ MVC
 MySQL
 Express Session
 
-Clone the repo, navigate to the root folder, run the following command in your termina;:
+Clone the repo, navigate to the root folder, run the following command in your terminal:
 
 node server.js
 
